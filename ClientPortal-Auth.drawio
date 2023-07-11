@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T12:05:51.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="V2FdLknQnU7Fs7t9w-HD" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T13:13:57.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xJ6HKFgzKXQ1DOZA0SSN" version="21.6.1" type="github">
   <diagram name="Page-1" id="knrInPN8lqqvU95grT6c">
     <mxGraphModel dx="538" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,11 +60,17 @@
         <mxCell id="o5Kga1oEtXIRGomeLSfw-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="730" y="210" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o5Kga1oEtXIRGomeLSfw-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o5Kga1oEtXIRGomeLSfw-21" value="Client Portal API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o5Kga1oEtXIRGomeLSfw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.151;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o5Kga1oEtXIRGomeLSfw-22" target="o5Kga1oEtXIRGomeLSfw-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o5Kga1oEtXIRGomeLSfw-22" value="Client" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="180" y="435" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o5Kga1oEtXIRGomeLSfw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.838;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o5Kga1oEtXIRGomeLSfw-23" target="o5Kga1oEtXIRGomeLSfw-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o5Kga1oEtXIRGomeLSfw-23" value="Claims" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="435" width="50" height="50" as="geometry" />
@@ -83,6 +89,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="285" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o5Kga1oEtXIRGomeLSfw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o5Kga1oEtXIRGomeLSfw-24" target="o5Kga1oEtXIRGomeLSfw-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o5Kga1oEtXIRGomeLSfw-24" value="Policies" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="435" width="50" height="50" as="geometry" />
